@@ -1,5 +1,5 @@
 {
-  "name": "imgconvert",
+  "name": "refractored-broccoli",
   "version": "1.0.0",
   "main": "main.js",
   "description": "Electron app made to convert images to other formats",
